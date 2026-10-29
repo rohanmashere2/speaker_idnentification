@@ -1,0 +1,8 @@
+@"
+.voice_env312/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.env
+"@ | Out-File -FilePath .gitignore -Encoding utf8
